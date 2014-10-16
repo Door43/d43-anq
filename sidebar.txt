@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[anq:home|Door43 (anq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-anq|d43-anq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-anq/archive/master.zip|d43-anq.zip]]
+
+**Recent Changes**
+{{changes>ns = anq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/anq|Ethnologue data]]
+
